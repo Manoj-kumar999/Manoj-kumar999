@@ -18,8 +18,8 @@
 
 ### 🛠️ Skills & Tools
 
-- 💻 **Languages:** Python, SQL, HTML, CSS, JavaScript
-- ☁️ **Cloud & Tools:** Azure, GitHub, VS Code, Jupyter, SSMS
+- 💻 **Languages:** Python, SQL, Julia, HTML, CSS, JavaScript
+- ☁️ **Cloud & Tools:** Azure, GitHub, VS Code, Jupyter, SSMS, Power BI
 - ⚙️ **Frameworks & Platforms:** Flask, Velo (Wix), Expo, React Native
 
 ---
